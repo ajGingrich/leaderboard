@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(85, 181, 193);
+    text-align: center;
+}
+
+#theBoard {
+    background-color: white;
+}
+#title {
+    margin-top: 30px;
+}
+.arrow {
+    height: 20px;
+    opacity: .3;
+}
+.currentArrow {
+    height: 20px;
+    opacity: 1;
+}
